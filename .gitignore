@@ -11,7 +11,7 @@
 *.sln.docstates
 
 launch.json
-
+tasks.json
 
 # JSG
 appsettings.json
